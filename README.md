@@ -1,7 +1,9 @@
 ## Installation
-.Install adb (Arch)
+.Install adb
 
-.sudo pacman -S android-tools
+.sudo pacman -S android-tools (Arch)
+
+.sudo dnf install android-tools (Fedora 40)
 
 .chmod +x SynthMapUpdate
 
