@@ -1,5 +1,5 @@
 ## SynthRiders - Custom Songs Downloader for Linux
-This tool will check your CustomSongs folder on your Quest 3 and compare it with the available beatmaps found in synthriderz.com, any missing entries found will be downloaded to your Quest 3 device (CustomSongs Folder).
+This tool will check your CustomSongs folder in your Quest 3 device and compare it with the available beatmaps found in synthriderz.com, any missing entries found will be downloaded to your Quest 3 device (CustomSongs Folder).
 
 ### Requirements
 - Quest 3 with Debug Mode Enabled
