@@ -5,10 +5,19 @@ This tool will check your CustomSongs folder on your Quest 3 and compare it with
 - Quest 3
 - Linux
 - Android Tools
+- USB Debug Mode Enabled
   
 ## Installation
 - Install android-tools package for your linux distro, eg. **sudo pacman -S android-tools** (Arch)
 - Give the file execute permissions with **chmod +x SynthMapUpdate**
 - Run the file with **./SynthMapUpdate**
 
-**Note: If its the first time you plugin the device to your PC it will need you to accept the debug dialog through your headset in order for the adb server to detect it (this has to be done only once), after that you only plug in the usb cable and run the app. 
+**Note: The first time you plugin the device to your PC you need you to accept the debug dialog through your headset in order for the adb server to detect it (this has to be done only once), after that you only plug in the usb cable and run the app. 
+
+First Time Example
+- Plug-in the device
+- Run the app (it wont show the device yet but leave it running)
+- Put the headset on and accept the popup debug dialog
+- Headset off
+- Close the app and run it again
+
