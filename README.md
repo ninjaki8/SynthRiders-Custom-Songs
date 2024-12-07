@@ -2,10 +2,9 @@
 This tool will check your CustomSongs folder on your Quest 3 and compare it with the available beatmaps found in synthriderz.com, any missing entries found will be downloaded to your Quest 3 device (CustomSongs Folder).
 
 ## Requirements
-- Quest 3
+- Quest 3 with Debug Mode Enabled
 - Linux
 - Android Tools
-- USB Debug Mode Enabled
   
 ## Installation
 - Install android-tools package for your linux distro, eg. **sudo pacman -S android-tools** (Arch)
@@ -18,6 +17,6 @@ First Time Example
 - Plug-in the device
 - Run the app (it wont show the device yet but leave it running)
 - Put the headset on and accept the popup debug dialog
-- Headset off
+- Remove Headset
 - Close the app and run it again
 
