@@ -18,7 +18,6 @@ This tool scans the CustomSongs folder on your Quest 3 device and downloads any 
 First Time Example
 - Plug-in the device
 - Run the app (it wont show the device yet but leave it running)
-- Put the headset on and accept the popup debug dialog
-- Remove Headset
+- Accept the popup debug dialog
 - Close the app and run it again
 
